@@ -62,6 +62,7 @@ Email liên hệ: nqminh@fit.hcmus.edu.vn
      year={2020},
      publisher={Springer}
 }
+```
 
 Đề tài SKHCN: Xây dựng công cụ tổng hợp tin tức tiếng Việt và ứng dụng
 
