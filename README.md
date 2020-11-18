@@ -51,6 +51,18 @@ Tác giả: nhóm tác giả Nghiêm Quốc Minh
 
 Email liên hệ: nqminh@fit.hcmus.edu.vn
 
+```
+   @article{tran2020vims,
+     title={ViMs: a high-quality Vietnamese dataset for abstractive multi-document summarization},
+     author={Tran, Nhi-Thao and Nghiem, Minh-Quoc and Nguyen, Nhung TH and Nguyen, Ngan Luu-Thuy and Van Chi, Nam and Dinh, Dien},
+     journal={Language Resources and Evaluation},
+     volume={54},
+     number={4},
+     pages={893--920},
+     year={2020},
+     publisher={Springer}
+}
+
 Đề tài SKHCN: Xây dựng công cụ tổng hợp tin tức tiếng Việt và ứng dụng
 
 #### Quá trình xây dựng dữ liệu: 
