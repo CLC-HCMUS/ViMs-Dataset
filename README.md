@@ -7,6 +7,21 @@ Institute: Faculty of Information Technology, HCMC University of Science, Vietna
 
 Email: nqminh@fit.hcmus.edu.vn
 
+Please cite to the following journal when using the dataset:
+
+```
+   @article{tran2020vims,
+     title={ViMs: a high-quality Vietnamese dataset for abstractive multi-document summarization},
+     author={Tran, Nhi-Thao and Nghiem, Minh-Quoc and Nguyen, Nhung TH and Nguyen, Ngan Luu-Thuy and Van Chi, Nam and Dinh, Dien},
+     journal={Language Resources and Evaluation},
+     volume={54},
+     number={4},
+     pages={893--920},
+     year={2020},
+     publisher={Springer}
+}
+```
+
 This work was supported by the Ho Chi Minh City Department of Science and Technology, Grant Numbers 15/2016/HÐ-SKHCN
 
 #### Data construction process:
